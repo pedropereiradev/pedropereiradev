@@ -1,8 +1,12 @@
 ## Hello Devs, me chamo Pedro Pereira!
 ### Bem vindo ao meu perfil GitHub 👋
 
+Eu sou estudante de desenvolvimento Web na Trybe e um apaixonado por negócios. Busco poder juntar estes dois em um só e poder contribuir para o crescimento da empresa em que eu estiver.
 
-![Snake animation](https://github.com/seu-usuário-aqui/pedropereiradev/blob/output/github-contribution-grid-snake.svg)
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+
 <!--### Hi there 👋-->
 
 <!--
