@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello Devs, me chamo Pedro Pereira!
+### Bem vindo ao meu perfil GitHub 👋
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/pedropereiradev/blob/output/github-contribution-grid-snake.svg)
+<!--### Hi there 👋-->
 
 <!--
 **pedropereiradev/pedropereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
