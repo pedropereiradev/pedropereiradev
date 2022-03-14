@@ -1,4 +1,27 @@
-## Hello Devs, me chamo Pedro Pereira!
+# Título do projeto
+
+## Sobre o projeto
+  *Do que se trata*
+  *Funcionalidades*
+  *Como foi implementado cada recurso/framework*
+
+## Layout do projeto
+  *Imagens demostrando a parte visual do projeto*
+
+## Tecnologias utilizadas
+  * HTML
+  * CSS
+  * JavaScript
+  * BootStrap
+  * Fontes do Google
+
+## Autor
+  __Pedro Pereira__
+
+  <a href = "mailto:devpereirapedro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedropereiradev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<!-- ## Hello Devs, me chamo Pedro Pereira!
 ### Bem vindo ao meu perfil GitHub 👋
 
 Eu sou estudante de desenvolvimento Web na Trybe e um apaixonado por negócios. Busco poder juntar estes dois em um só e poder contribuir para o crescimento da empresa em que eu estiver.
@@ -18,7 +41,7 @@ Eu sou estudante de desenvolvimento Web na Trybe e um apaixonado por negócios. 
 <a href="https://github.com/pedropereiradev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropereiradev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropereiradev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 
 <!--### Hi there 👋-->
