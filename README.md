@@ -1,7 +1,7 @@
 ## Hello Devs, me chamo Pedro Pereira!
 ### Bem vindo ao meu perfil GitHub 👋
 
-S estudante de desenvolvimento Web na Trybe e busco contribuir ativamente no desenvolvimento de empresas com uso de tecnologia.
+Sou estudante de desenvolvimento Web na Trybe e busco contribuir ativamente no desenvolvimento de empresas com uso de tecnologia.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" widht="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" widht="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" widht="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" widht="40" height="40" />
