@@ -1,16 +1,22 @@
-## 👋 Pedro Pereira
+## 👋 Hi, I'm Pedro Pereira
 
-Software engineer and **Web3** enthusiast.
+Software Engineer specializing in **backend architecture** and **fintech solutions**.  
+I build scalable, high-performance systems that solve real problems.
 
-Main stack: **Node.js · ElysiaJS · Bun · PostgreSQL · React · Fuel Network**
+**Main Stack:** Node.js · Bun · TypeScript · PostgreSQL · AWS · React
+
+**What I Do:**
+- 🏗️ Design and architect scalable backend systems (handling millions of requests)
+- 💳 Build secure fintech platforms and payment processing systems
+- 🔧 Develop high-performance APIs and microservices
+- 🌐 Contribute to open-source projects
 
 ---
 
-### 🔗 Links
-
+### 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/pedropereiradev)
-- [Email](mailto:devpereirapedro@gmail.com)
 - [Portfolio](https://pedropereira.dev)
+- [Email](mailto:devpereirapedro@gmail.com)
 
 ---
 
